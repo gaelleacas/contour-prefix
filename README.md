@@ -1,4 +1,4 @@
-# Sample to test Contour Prefix path
+# Sample to test Contour Prefix Rewrite
 Prerequis : Contour running on your cluser
 ## run "mynodeapp" in local: 
 
@@ -10,7 +10,7 @@ $ yarn
 ```
 $ yarn start
 ```
-go to [http://localhost:8080](http://localhost:8080)
+go to [http://localhost:8080](http://localhost:8080) & [http://localhost:8080/myroute](http://localhost:8080/myroute)
 
 It's OK ? so next :
 

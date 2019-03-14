@@ -13,3 +13,4 @@ spec:
     services:
     - name: mynodeapp
       port: 80
+      

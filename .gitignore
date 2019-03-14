@@ -4,4 +4,3 @@ logs
 *.log
 yarn-error.log*
 node_modules
-*.yaml

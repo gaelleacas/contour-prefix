@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 app.get('/', (req, res) => {
-  res.setHeader("Content-Type", "text/html");
+  res.setHeader("Content-Type", "text/plain");
   res.status(200).send('Hello World from root');
 });
 
